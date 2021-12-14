@@ -1,4 +1,5 @@
 // Inizializzo array email
+const listEmail = ('carlo@gmail.com' , 'alessandro@gmail.com' , 'desideri@gmail.com' )
 
 // Chiedo email all'utente
 
